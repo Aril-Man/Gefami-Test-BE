@@ -122,7 +122,7 @@ Ini adalah sistem perpustakaan online yang dibangun menggunakan Node.js. Sistem 
 
 2. Masuk ke direktori proyek:
    ```bash
-   cd online-library-system
+   cd Gefima-Test-BE
    ```
 
 3. Install dependencies:
