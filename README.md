@@ -143,6 +143,3 @@ Ini adalah sistem perpustakaan online yang dibangun menggunakan Node.js. Sistem 
 - bcrypt (untuk hashing password)
 - uuid (untuk ID pengguna unik)
 
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
-
